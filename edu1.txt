@@ -2,5 +2,4 @@ this is a session on self learning on edureka
 Hello bro
 WASS up !
 Having fun
-In rebase branch
-adding newlie
+this one will be finally merged to master
